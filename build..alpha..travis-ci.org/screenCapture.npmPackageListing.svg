@@ -1,0 +1,227 @@
+<svg height="3582" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="3582" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-23 06:44:06 +0000  3453274 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-23 06:44:06 +0000    21193 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-23 06:44:06 +0000     2475 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-23 06:44:06 +0000     1076 bytes  LICENSE</tspan>
+<tspan x="10" y="90">  4.  2017-04-23 06:44:06 +0000     3174 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-23 06:44:06 +0000    11651 bytes  demo/component/AreaChart.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-23 06:44:06 +0000    17635 bytes  demo/component/BarChart.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-23 06:44:06 +0000     1003 bytes  demo/component/BrushDemo.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-23 06:44:06 +0000     1244 bytes  demo/component/CartesianAxis.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-23 06:44:06 +0000      481 bytes  demo/component/CartesianGrid.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-23 06:44:06 +0000     2881 bytes  demo/component/ComposedChart.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-23 06:44:06 +0000     2955 bytes  demo/component/Curve.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-23 06:44:06 +0000     2271 bytes  demo/component/CustomLineDot.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-23 06:44:06 +0000      858 bytes  demo/component/DemoRadarItem.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-23 06:44:06 +0000     1621 bytes  demo/component/DemoSankeyLink.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-23 06:44:06 +0000      884 bytes  demo/component/DemoSankeyNode.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-23 06:44:06 +0000     1583 bytes  demo/component/DemoTreemapItem.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-23 06:44:06 +0000     1593 bytes  demo/component/Legend.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-23 06:44:06 +0000    20091 bytes  demo/component/LineChart.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-23 06:44:06 +0000      691 bytes  demo/component/Pie.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-23 06:44:06 +0000     6492 bytes  demo/component/PieChart.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-23 06:44:06 +0000      701 bytes  demo/component/PolarAngleAxis.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-23 06:44:06 +0000      559 bytes  demo/component/PolarGrid.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-23 06:44:06 +0000      727 bytes  demo/component/PolarRadiusAxis.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-23 06:44:06 +0000     2769 bytes  demo/component/RadarChart.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-23 06:44:06 +0000     3088 bytes  demo/component/RadialBarChart.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-23 06:44:06 +0000     1276 bytes  demo/component/Rectangle.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-23 06:44:06 +0000    13476 bytes  demo/component/ResponsiveContainer.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-23 06:44:06 +0000     6581 bytes  demo/component/Sankey.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-23 06:44:06 +0000     4565 bytes  demo/component/ScatterChart.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-23 06:44:06 +0000      537 bytes  demo/component/Sector.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-23 06:44:06 +0000     8989 bytes  demo/component/TextDemo.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-23 06:44:06 +0000    12774 bytes  demo/component/Treemap.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-23 06:44:06 +0000     1374 bytes  demo/component/index.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-23 06:44:06 +0000      435 bytes  demo/component/utils.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-23 06:44:06 +0000     1663 bytes  demo/container/App.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-23 06:44:06 +0000      153 bytes  demo/index.html</tspan>
+<tspan x="10" y="618"> 37.  2017-04-23 06:44:06 +0000      301 bytes  demo/index.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-23 06:44:06 +0000      702 bytes  demo/webpack.config.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-23 06:44:06 +0000    14739 bytes  es6/cartesian/Area.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-23 06:44:06 +0000    13159 bytes  es6/cartesian/Bar.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-23 06:44:06 +0000    16853 bytes  es6/cartesian/Brush.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-23 06:44:06 +0000    20295 bytes  es6/cartesian/CartesianAxis.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-23 06:44:06 +0000     8734 bytes  es6/cartesian/CartesianGrid.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-23 06:44:06 +0000     6054 bytes  es6/cartesian/ErrorBar.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-23 06:44:06 +0000    16796 bytes  es6/cartesian/Line.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-23 06:44:06 +0000     7431 bytes  es6/cartesian/ReferenceArea.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-23 06:44:06 +0000     6315 bytes  es6/cartesian/ReferenceDot.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-23 06:44:06 +0000     8532 bytes  es6/cartesian/ReferenceLine.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-23 06:44:06 +0000    11392 bytes  es6/cartesian/Scatter.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-23 06:44:06 +0000     4614 bytes  es6/cartesian/XAxis.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-23 06:44:06 +0000     4608 bytes  es6/cartesian/YAxis.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-23 06:44:06 +0000     2972 bytes  es6/cartesian/ZAxis.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-23 06:44:06 +0000    13855 bytes  es6/chart/AreaChart.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-23 06:44:06 +0000    11497 bytes  es6/chart/BarChart.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-23 06:44:06 +0000     7138 bytes  es6/chart/ComposedChart.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-23 06:44:06 +0000    10710 bytes  es6/chart/LineChart.js</tspan>
+<tspan x="10" y="938"> 57.  2017-04-23 06:44:06 +0000    10825 bytes  es6/chart/PieChart.js</tspan>
+<tspan x="10" y="954"> 58.  2017-04-23 06:44:06 +0000    19178 bytes  es6/chart/RadarChart.js</tspan>
+<tspan x="10" y="970"> 59.  2017-04-23 06:44:06 +0000    15705 bytes  es6/chart/RadialBarChart.js</tspan>
+<tspan x="10" y="986"> 60.  2017-04-23 06:44:06 +0000    22949 bytes  es6/chart/Sankey.js</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-23 06:44:06 +0000    22869 bytes  es6/chart/ScatterChart.js</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-23 06:44:06 +0000    17707 bytes  es6/chart/Treemap.js</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-23 06:44:06 +0000    49717 bytes  es6/chart/generateCategoricalChart.js</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-23 06:44:06 +0000     2382 bytes  es6/component/Cell.js</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-23 06:44:06 +0000     6793 bytes  es6/component/DefaultLegendContent.js</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-23 06:44:06 +0000     6355 bytes  es6/component/DefaultTooltipContent.js</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-23 06:44:06 +0000     8371 bytes  es6/component/Legend.js</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-23 06:44:06 +0000     6980 bytes  es6/component/ResponsiveContainer.js</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-23 06:44:06 +0000     8703 bytes  es6/component/Text.js</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-23 06:44:06 +0000     8238 bytes  es6/component/Tooltip.js</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-23 06:44:06 +0000     1140 bytes  es6/container/Layer.js</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-23 06:44:06 +0000     1923 bytes  es6/container/Surface.js</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-23 06:44:06 +0000     3461 bytes  es6/index.js</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-23 06:44:06 +0000    15012 bytes  es6/polar/Pie.js</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-23 06:44:06 +0000     8872 bytes  es6/polar/PolarAngleAxis.js</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-23 06:44:06 +0000     7158 bytes  es6/polar/PolarGrid.js</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-23 06:44:06 +0000     9993 bytes  es6/polar/PolarRadiusAxis.js</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-23 06:44:06 +0000     9976 bytes  es6/polar/Radar.js</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-23 06:44:06 +0000    14036 bytes  es6/polar/RadialBar.js</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-23 06:44:06 +0000      394 bytes  es6/polyfill.js</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-23 06:44:06 +0000     3686 bytes  es6/shape/Cross.js</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-23 06:44:06 +0000     6437 bytes  es6/shape/Curve.js</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-23 06:44:06 +0000     3129 bytes  es6/shape/Dot.js</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-23 06:44:06 +0000     3461 bytes  es6/shape/Polygon.js</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-23 06:44:06 +0000     9064 bytes  es6/shape/Rectangle.js</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-23 06:44:06 +0000     9710 bytes  es6/shape/Sector.js</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-23 06:44:06 +0000     5192 bytes  es6/shape/Symbols.js</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-23 06:44:06 +0000     3518 bytes  es6/util/AnimationDecorator.js</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-23 06:44:06 +0000    20534 bytes  es6/util/CartesianUtils.js</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-23 06:44:06 +0000    10558 bytes  es6/util/ComposedDataDecorator.js</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-23 06:44:06 +0000      911 bytes  es6/util/CssPrefixUtils.js</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-23 06:44:06 +0000     3883 bytes  es6/util/DOMUtils.js</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-23 06:44:06 +0000     8235 bytes  es6/util/DataUtils.js</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-23 06:44:06 +0000      223 bytes  es6/util/Events.js</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-23 06:44:06 +0000      786 bytes  es6/util/LogUtils.js</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-23 06:44:06 +0000      574 bytes  es6/util/PolarUtils.js</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-23 06:44:06 +0000      689 bytes  es6/util/PureRender.js</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-23 06:44:06 +0000    11727 bytes  es6/util/ReactUtils.js</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-23 06:44:06 +0000    16737 bytes  lib/cartesian/Area.js</tspan>
+<tspan x="10" y="1626">100.  2017-04-23 06:44:06 +0000    15037 bytes  lib/cartesian/Bar.js</tspan>
+<tspan x="10" y="1642">101.  2017-04-23 06:44:06 +0000    18036 bytes  lib/cartesian/Brush.js</tspan>
+<tspan x="10" y="1658">102.  2017-04-23 06:44:06 +0000    21639 bytes  lib/cartesian/CartesianAxis.js</tspan>
+<tspan x="10" y="1674">103.  2017-04-23 06:44:06 +0000     9565 bytes  lib/cartesian/CartesianGrid.js</tspan>
+<tspan x="10" y="1690">104.  2017-04-23 06:44:06 +0000     6630 bytes  lib/cartesian/ErrorBar.js</tspan>
+<tspan x="10" y="1706">105.  2017-04-23 06:44:06 +0000    18606 bytes  lib/cartesian/Line.js</tspan>
+<tspan x="10" y="1722">106.  2017-04-23 06:44:06 +0000     8714 bytes  lib/cartesian/ReferenceArea.js</tspan>
+<tspan x="10" y="1738">107.  2017-04-23 06:44:06 +0000     7400 bytes  lib/cartesian/ReferenceDot.js</tspan>
+<tspan x="10" y="1754">108.  2017-04-23 06:44:06 +0000    10035 bytes  lib/cartesian/ReferenceLine.js</tspan>
+<tspan x="10" y="1770">109.  2017-04-23 06:44:06 +0000    13106 bytes  lib/cartesian/Scatter.js</tspan>
+<tspan x="10" y="1786">110.  2017-04-23 06:44:06 +0000     5562 bytes  lib/cartesian/XAxis.js</tspan>
+<tspan x="10" y="1802">111.  2017-04-23 06:44:06 +0000     5556 bytes  lib/cartesian/YAxis.js</tspan>
+<tspan x="10" y="1818">112.  2017-04-23 06:44:06 +0000     3530 bytes  lib/cartesian/ZAxis.js</tspan>
+<tspan x="10" y="1834">113.  2017-04-23 06:44:06 +0000    15660 bytes  lib/chart/AreaChart.js</tspan>
+<tspan x="10" y="1850">114.  2017-04-23 06:44:06 +0000    13460 bytes  lib/chart/BarChart.js</tspan>
+<tspan x="10" y="1866">115.  2017-04-23 06:44:06 +0000     8461 bytes  lib/chart/ComposedChart.js</tspan>
+<tspan x="10" y="1882">116.  2017-04-23 06:44:06 +0000    12387 bytes  lib/chart/LineChart.js</tspan>
+<tspan x="10" y="1898">117.  2017-04-23 06:44:06 +0000    12611 bytes  lib/chart/PieChart.js</tspan>
+<tspan x="10" y="1914">118.  2017-04-23 06:44:06 +0000    21214 bytes  lib/chart/RadarChart.js</tspan>
+<tspan x="10" y="1930">119.  2017-04-23 06:44:06 +0000    17213 bytes  lib/chart/RadialBarChart.js</tspan>
+<tspan x="10" y="1946">120.  2017-04-23 06:44:06 +0000    25169 bytes  lib/chart/Sankey.js</tspan>
+<tspan x="10" y="1962">121.  2017-04-23 06:44:06 +0000    25033 bytes  lib/chart/ScatterChart.js</tspan>
+<tspan x="10" y="1978">122.  2017-04-23 06:44:06 +0000    19640 bytes  lib/chart/Treemap.js</tspan>
+<tspan x="10" y="1994">123.  2017-04-23 06:44:06 +0000    52665 bytes  lib/chart/generateCategoricalChart.js</tspan>
+<tspan x="10" y="2010">124.  2017-04-23 06:44:06 +0000     2505 bytes  lib/component/Cell.js</tspan>
+<tspan x="10" y="2026">125.  2017-04-23 06:44:06 +0000     7582 bytes  lib/component/DefaultLegendContent.js</tspan>
+<tspan x="10" y="2042">126.  2017-04-23 06:44:06 +0000     7120 bytes  lib/component/DefaultTooltipContent.js</tspan>
+<tspan x="10" y="2058">127.  2017-04-23 06:44:06 +0000     9319 bytes  lib/component/Legend.js</tspan>
+<tspan x="10" y="2074">128.  2017-04-23 06:44:06 +0000     7727 bytes  lib/component/ResponsiveContainer.js</tspan>
+<tspan x="10" y="2090">129.  2017-04-23 06:44:06 +0000     9404 bytes  lib/component/Text.js</tspan>
+<tspan x="10" y="2106">130.  2017-04-23 06:44:06 +0000     9437 bytes  lib/component/Tooltip.js</tspan>
+<tspan x="10" y="2122">131.  2017-04-23 06:44:06 +0000     2012 bytes  lib/container/Layer.js</tspan>
+<tspan x="10" y="2138">132.  2017-04-23 06:44:06 +0000     2878 bytes  lib/container/Surface.js</tspan>
+<tspan x="10" y="2154">133.  2017-04-23 06:44:06 +0000     7313 bytes  lib/index.js</tspan>
+<tspan x="10" y="2170">134.  2017-04-23 06:44:06 +0000    17150 bytes  lib/polar/Pie.js</tspan>
+<tspan x="10" y="2186">135.  2017-04-23 06:44:06 +0000    10105 bytes  lib/polar/PolarAngleAxis.js</tspan>
+<tspan x="10" y="2202">136.  2017-04-23 06:44:06 +0000     7796 bytes  lib/polar/PolarGrid.js</tspan>
+<tspan x="10" y="2218">137.  2017-04-23 06:44:06 +0000    11262 bytes  lib/polar/PolarRadiusAxis.js</tspan>
+<tspan x="10" y="2234">138.  2017-04-23 06:44:06 +0000    11510 bytes  lib/polar/Radar.js</tspan>
+<tspan x="10" y="2250">139.  2017-04-23 06:44:06 +0000    15582 bytes  lib/polar/RadialBar.js</tspan>
+<tspan x="10" y="2266">140.  2017-04-23 06:44:06 +0000      412 bytes  lib/polyfill.js</tspan>
+<tspan x="10" y="2282">141.  2017-04-23 06:44:06 +0000     4349 bytes  lib/shape/Cross.js</tspan>
+<tspan x="10" y="2298">142.  2017-04-23 06:44:06 +0000     7183 bytes  lib/shape/Curve.js</tspan>
+<tspan x="10" y="2314">143.  2017-04-23 06:44:06 +0000     3671 bytes  lib/shape/Dot.js</tspan>
+<tspan x="10" y="2330">144.  2017-04-23 06:44:06 +0000     4000 bytes  lib/shape/Polygon.js</tspan>
+<tspan x="10" y="2346">145.  2017-04-23 06:44:06 +0000     9839 bytes  lib/shape/Rectangle.js</tspan>
+<tspan x="10" y="2362">146.  2017-04-23 06:44:06 +0000    10462 bytes  lib/shape/Sector.js</tspan>
+<tspan x="10" y="2378">147.  2017-04-23 06:44:06 +0000     5714 bytes  lib/shape/Symbols.js</tspan>
+<tspan x="10" y="2394">148.  2017-04-23 06:44:06 +0000     3837 bytes  lib/util/AnimationDecorator.js</tspan>
+<tspan x="10" y="2410">149.  2017-04-23 06:44:06 +0000    22383 bytes  lib/util/CartesianUtils.js</tspan>
+<tspan x="10" y="2426">150.  2017-04-23 06:44:06 +0000    11123 bytes  lib/util/ComposedDataDecorator.js</tspan>
+<tspan x="10" y="2442">151.  2017-04-23 06:44:06 +0000     1015 bytes  lib/util/CssPrefixUtils.js</tspan>
+<tspan x="10" y="2458">152.  2017-04-23 06:44:06 +0000     4177 bytes  lib/util/DOMUtils.js</tspan>
+<tspan x="10" y="2474">153.  2017-04-23 06:44:06 +0000    10214 bytes  lib/util/DataUtils.js</tspan>
+<tspan x="10" y="2490">154.  2017-04-23 06:44:06 +0000      531 bytes  lib/util/Events.js</tspan>
+<tspan x="10" y="2506">155.  2017-04-23 06:44:06 +0000      874 bytes  lib/util/LogUtils.js</tspan>
+<tspan x="10" y="2522">156.  2017-04-23 06:44:06 +0000      700 bytes  lib/util/PolarUtils.js</tspan>
+<tspan x="10" y="2538">157.  2017-04-23 06:44:06 +0000      823 bytes  lib/util/PureRender.js</tspan>
+<tspan x="10" y="2554">158.  2017-04-23 06:44:06 +0000    14377 bytes  lib/util/ReactUtils.js</tspan>
+<tspan x="10" y="2570">159.  2017-04-23 06:44:06 +0000     5155 bytes  package.json</tspan>
+<tspan x="10" y="2586">160.  2017-04-23 06:44:06 +0000    10048 bytes  src/cartesian/Area.js</tspan>
+<tspan x="10" y="2602">161.  2017-04-23 06:44:06 +0000     8803 bytes  src/cartesian/Bar.js</tspan>
+<tspan x="10" y="2618">162.  2017-04-23 06:44:06 +0000    11289 bytes  src/cartesian/Brush.js</tspan>
+<tspan x="10" y="2634">163.  2017-04-23 06:44:06 +0000    14368 bytes  src/cartesian/CartesianAxis.js</tspan>
+<tspan x="10" y="2650">164.  2017-04-23 06:44:06 +0000     4791 bytes  src/cartesian/CartesianGrid.js</tspan>
+<tspan x="10" y="2666">165.  2017-04-23 06:44:06 +0000     2739 bytes  src/cartesian/ErrorBar.js</tspan>
+<tspan x="10" y="2682">166.  2017-04-23 06:44:06 +0000    10827 bytes  src/cartesian/Line.js</tspan>
+<tspan x="10" y="2698">167.  2017-04-23 06:44:06 +0000     4484 bytes  src/cartesian/ReferenceArea.js</tspan>
+<tspan x="10" y="2714">168.  2017-04-23 06:44:06 +0000     3659 bytes  src/cartesian/ReferenceDot.js</tspan>
+<tspan x="10" y="2730">169.  2017-04-23 06:44:06 +0000     4886 bytes  src/cartesian/ReferenceLine.js</tspan>
+<tspan x="10" y="2746">170.  2017-04-23 06:44:06 +0000     7384 bytes  src/cartesian/Scatter.js</tspan>
+<tspan x="10" y="2762">171.  2017-04-23 06:44:06 +0000     2983 bytes  src/cartesian/XAxis.js</tspan>
+<tspan x="10" y="2778">172.  2017-04-23 06:44:06 +0000     2977 bytes  src/cartesian/YAxis.js</tspan>
+<tspan x="10" y="2794">173.  2017-04-23 06:44:06 +0000     1196 bytes  src/cartesian/ZAxis.js</tspan>
+<tspan x="10" y="2810">174.  2017-04-23 06:44:06 +0000     9566 bytes  src/chart/AreaChart.js</tspan>
+<tspan x="10" y="2826">175.  2017-04-23 06:44:06 +0000     7735 bytes  src/chart/BarChart.js</tspan>
+<tspan x="10" y="2842">176.  2017-04-23 06:44:06 +0000     4121 bytes  src/chart/ComposedChart.js</tspan>
+<tspan x="10" y="2858">177.  2017-04-23 06:44:06 +0000     6771 bytes  src/chart/LineChart.js</tspan>
+<tspan x="10" y="2874">178.  2017-04-23 06:44:06 +0000     6494 bytes  src/chart/PieChart.js</tspan>
+<tspan x="10" y="2890">179.  2017-04-23 06:44:06 +0000    13259 bytes  src/chart/RadarChart.js</tspan>
+<tspan x="10" y="2906">180.  2017-04-23 06:44:06 +0000    10637 bytes  src/chart/RadialBarChart.js</tspan>
+<tspan x="10" y="2922">181.  2017-04-23 06:44:06 +0000    17113 bytes  src/chart/Sankey.js</tspan>
+<tspan x="10" y="2938">182.  2017-04-23 06:44:06 +0000    17261 bytes  src/chart/ScatterChart.js</tspan>
+<tspan x="10" y="2954">183.  2017-04-23 06:44:06 +0000    12466 bytes  src/chart/Treemap.js</tspan>
+<tspan x="10" y="2970">184.  2017-04-23 06:44:06 +0000    38779 bytes  src/chart/generateCategoricalChart.js</tspan>
+<tspan x="10" y="2986">185.  2017-04-23 06:44:06 +0000      313 bytes  src/component/Cell.js</tspan>
+<tspan x="10" y="3002">186.  2017-04-23 06:44:06 +0000     3953 bytes  src/component/DefaultLegendContent.js</tspan>
+<tspan x="10" y="3018">187.  2017-04-23 06:44:06 +0000     3227 bytes  src/component/DefaultTooltipContent.js</tspan>
+<tspan x="10" y="3034">188.  2017-04-23 06:44:06 +0000     4989 bytes  src/component/Legend.js</tspan>
+<tspan x="10" y="3050">189.  2017-04-23 06:44:06 +0000     4078 bytes  src/component/ResponsiveContainer.js</tspan>
+<tspan x="10" y="3066">190.  2017-04-23 06:44:06 +0000     5145 bytes  src/component/Text.js</tspan>
+<tspan x="10" y="3082">191.  2017-04-23 06:44:06 +0000     4979 bytes  src/component/Tooltip.js</tspan>
+<tspan x="10" y="3098">192.  2017-04-23 06:44:06 +0000      565 bytes  src/container/Layer.js</tspan>
+<tspan x="10" y="3114">193.  2017-04-23 06:44:06 +0000     1209 bytes  src/container/Surface.js</tspan>
+<tspan x="10" y="3130">194.  2017-04-23 06:44:06 +0000     1921 bytes  src/index.js</tspan>
+<tspan x="10" y="3146">195.  2017-04-23 06:44:06 +0000    10412 bytes  src/polar/Pie.js</tspan>
+<tspan x="10" y="3162">196.  2017-04-23 06:44:06 +0000     5669 bytes  src/polar/PolarAngleAxis.js</tspan>
+<tspan x="10" y="3178">197.  2017-04-23 06:44:06 +0000     4209 bytes  src/polar/PolarGrid.js</tspan>
+<tspan x="10" y="3194">198.  2017-04-23 06:44:06 +0000     6059 bytes  src/polar/PolarRadiusAxis.js</tspan>
+<tspan x="10" y="3210">199.  2017-04-23 06:44:06 +0000     5901 bytes  src/polar/Radar.js</tspan>
+<tspan x="10" y="3226">200.  2017-04-23 06:44:06 +0000     9424 bytes  src/polar/RadialBar.js</tspan>
+<tspan x="10" y="3242">201.  2017-04-23 06:44:06 +0000      354 bytes  src/polyfill.js</tspan>
+<tspan x="10" y="3258">202.  2017-04-23 06:44:06 +0000     1357 bytes  src/shape/Cross.js</tspan>
+<tspan x="10" y="3274">203.  2017-04-23 06:44:06 +0000     3911 bytes  src/shape/Curve.js</tspan>
+<tspan x="10" y="3290">204.  2017-04-23 06:44:06 +0000      951 bytes  src/shape/Dot.js</tspan>
+<tspan x="10" y="3306">205.  2017-04-23 06:44:06 +0000     1239 bytes  src/shape/Polygon.js</tspan>
+<tspan x="10" y="3322">206.  2017-04-23 06:44:06 +0000     5619 bytes  src/shape/Rectangle.js</tspan>
+<tspan x="10" y="3338">207.  2017-04-23 06:44:06 +0000     5928 bytes  src/shape/Sector.js</tspan>
+<tspan x="10" y="3354">208.  2017-04-23 06:44:06 +0000     2719 bytes  src/shape/Symbols.js</tspan>
+<tspan x="10" y="3370">209.  2017-04-23 06:44:06 +0000      923 bytes  src/util/AnimationDecorator.js</tspan>
+<tspan x="10" y="3386">210.  2017-04-23 06:44:06 +0000    17908 bytes  src/util/CartesianUtils.js</tspan>
+<tspan x="10" y="3402">211.  2017-04-23 06:44:06 +0000     5363 bytes  src/util/ComposedDataDecorator.js</tspan>
+<tspan x="10" y="3418">212.  2017-04-23 06:44:06 +0000      370 bytes  src/util/CssPrefixUtils.js</tspan>
+<tspan x="10" y="3434">213.  2017-04-23 06:44:06 +0000     3198 bytes  src/util/DOMUtils.js</tspan>
+<tspan x="10" y="3450">214.  2017-04-23 06:44:06 +0000     7400 bytes  src/util/DataUtils.js</tspan>
+<tspan x="10" y="3466">215.  2017-04-23 06:44:06 +0000      228 bytes  src/util/Events.js</tspan>
+<tspan x="10" y="3482">216.  2017-04-23 06:44:06 +0000      731 bytes  src/util/LogUtils.js</tspan>
+<tspan x="10" y="3498">217.  2017-04-23 06:44:06 +0000      450 bytes  src/util/PolarUtils.js</tspan>
+<tspan x="10" y="3514">218.  2017-04-23 06:44:06 +0000      697 bytes  src/util/PureRender.js</tspan>
+<tspan x="10" y="3530">219.  2017-04-23 06:44:06 +0000    11253 bytes  src/util/ReactUtils.js</tspan>
+<tspan x="10" y="3546">220.  2017-04-23 06:44:06 +0000  1290523 bytes  umd/Recharts.js</tspan>
+<tspan x="10" y="3562">221.  2017-04-23 06:44:06 +0000   412986 bytes  umd/Recharts.min.js</tspan>
+</text>
+</svg>
